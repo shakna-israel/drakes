@@ -1,4 +1,4 @@
-![Drakes](https://cdn.rawgit.com/shakna-israel/drakes/master/docs/img/frontCover.jpg)
+![Drakes](https://shakna-israel.github.io/drakes/img/frontCover.jpg)
 
 ## Read Online
 
@@ -9,11 +9,7 @@ Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes).
 ## Blurb
 ----
 
-Being a genius isn't easy...
-
-She's the target, and the world might be the end game.
-
-Suzie Drakes is up against a wall.
+She was revealed to be a genius when she was eight, and then her aptitude moved her into ASIO as a bodyguard... But now she is the target, and the world might be the end game. Suzie Drakes is up against a wall.
 
 ## Copyleft
 ----

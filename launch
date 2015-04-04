@@ -11,7 +11,7 @@ echo "drakes.shaknaisrael.com" >> CNAME
 git init 
 git add . 
 git commit -am "Automatic Build" 
-git remote add origin https://github.com/shakna-israel/drakes-the-five-eyes.git
+git remote add origin https://github.com/shakna-israel/drakes.git
 git checkout -b gh-pages
 git push origin -f gh-pages
 cd .. 
