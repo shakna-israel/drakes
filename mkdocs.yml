@@ -1,7 +1,7 @@
-site_name: Drakes - The Five Eyes
+site_name: Drakes
 theme: readthedocs 
-repo_url: https://github.com/shakna-israel/drakes-the-five-eyes
-site_description: Suzie fights to recover as her involvement with the Five Eyes deepens
+repo_url: https://github.com/shakna-israel/drakes
+site_description: Suzie Drakes has never been a normal kid, but her time with ASIO puts that all in the past.
 site_author: shakna-israel 
 use_directory_urls: true 
 pages:

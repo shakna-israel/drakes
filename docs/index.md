@@ -2,19 +2,19 @@
 
 ## Read Online
 
-Read at [shaknaisrael.com](https://shakna-israel.github.io/drakes-the-five-eyes).
+Read at [shaknaisrael.com](https://shakna-israel.github.io/drakes).
 
-Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes-the-five-eyes).
+Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes).
 
 ## Blurb
 ----
 
-Suzie Drakes is fighting to recover, following her last assignment, but the world waits for no one, and she is flung into the breach as her involvement with the Five Eyes deepens.
+She was revealed to be a genius when she was eight, and then her aptitude moved her into ASIO as a bodyguard... But now she is the target, and the world might be the end game. Suzie Drakes is up against a wall.
 
 ## Copyleft
 ----
 
-Original released under full copyright, James Milne (c), 2014.
+Original released under full copyright, James Milne (c), 2012.
 
 Re-Released under the [Creative Commons Attribution-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-sa/4.0/legalcode), 2015. 
 
