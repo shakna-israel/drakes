@@ -2,16 +2,16 @@
 
 ## Read Online
 
-Read at [shaknaisrael.com](https://shakna-israel.github.io/drakes).
-
 Read on [Kobo](https://store.kobobooks.com/en-US/ebook/drakes).
+
+Read on [Archive.org](https://archive.org/details/Drakes).
 
 ## Series
 ----
 
-* [Drakes](https://shakna-israel.github.io/drakes/)
-* [Drakes: The Five Eyes](https://shakna-israel.github.io/drakes-the-five-eyes/)
-* [Drakes: Heroes and Villains](https://shakna-israel.github.io/drakes-heroes-and-villains/)
+* [Drakes](https://github.com/shakna-israel/drakes/)
+* [Drakes: The Five Eyes](https://github.com/shakna-israel/drakes-the-five-eyes/)
+* [Drakes: Heroes and Villains](https://github.com/shakna-israel/drakes-heroes-and-villains/)
 
 ## Blurb
 ----
