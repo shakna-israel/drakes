@@ -1,8 +1,8 @@
-# Drakes 
+# Drakes
 
 She was young, and was the youngest person to ever take up her current job. Yet that had a lot to do with the fact that she was a veritable genius.
 
-Her IQ ranked her as the smartest person alive, clocking in at 268, however she didn’t believe it, said experience meant more than any potential a Intelligence Quiz set her at.
+Her IQ ranked her as the smartest person alive, clocking in at 268, however she didn’t believe it, said experience meant more than any potential an Intelligence Quotient set her at.
 
 She had however invented a machine to help her, and that was what had gotten her employers attention.
 
@@ -14,7 +14,7 @@ This invention won her worldwide fame; she’d invented it at the age of eight. 
 
 Her name was Suzie Drakes.
 
---- 
+---
 
 She stepped in a closed the limousine door and instantly the senator spoke “Get me out of here… So sick of those idiots…”
 
@@ -56,7 +56,7 @@ O’Connor shook his head sadly, “Whatever… Go back to school then. For a ye
 
 Suzie smiled, “You’ve learnt me well.”
 
-O’Connor grinned, “Well seeing as you fell asleep in you’re a-level physics classes and then aced the exam…”
+O’Connor grinned, “Well, seeing as you fell asleep in your a-level physics classes and then aced the exam…”
 
 She grinned sheepishly, “It would have helped if he didn’t have a monotone.”
 
@@ -90,7 +90,9 @@ She reached the locker a couple steps ahead of them, their first mistake.
 
 She opened her locker and one put his hand on her right shoulder, second mistake.
 
-“Take your hand off me now or you won’t be going to school for a month.” She growled and he laughed, “What? You going to arrest me?” Third mistake.
+“Take your hand off me now or you won’t be going to school for a month.”
+
+She growled and he laughed, “What? You going to arrest me?” Third mistake.
 
 And his fourth was he didn’t remove his hand. She spun and grabbed it before he could see what was happening, her metal hand grabbed the base of his elbow and squeezed.
 
@@ -120,13 +122,13 @@ Ted nodded frowning, he turned back and flicked his eyes over the equation and s
 
 “4.176892.”
 
-He laughed, “Right again…” Ted adjusted his calculations and sat down, a bemused expression on his face, and a few people starred at him, surprised, she did this every time usually.
+He laughed, “Right again…” Ted adjusted his calculations and sat down, a bemused expression on his face, and a few people starred at him, surprised, she did this every time.
 
 Once the bell went and they went to go to their next classes Ted walked passed Suzie, “Can I get the next three digits?”
 
-Suzie laughed, “Not yet boy. Try harder.”
+Suzie laughed, “Not yet, boy. Try harder.”
 
-He laughed and walked away towards his class as Suzie went to hers in another direction, she considered him in her mind, bright, yet enough to know when he’s wrong, and yet still bright enough to put a few things together from practically nothing. Now she just needed to know how he behaved.
+He laughed and walked away towards his class as Suzie went to hers in another direction. She considered him in her mind, bright, yet enough to know when he’s wrong, and yet still bright enough to put a few things together from practically nothing. Now she just needed to know how he behaved.
 
 She walked through the door to her class, and her instincts took over. She leapt forward as a metal bar slammed down behind her; she spun and kicked the assailant’s feet under from underneath him.
 
@@ -138,13 +140,13 @@ Suzie shot a look at her teacher, “That was just plain stupid. Would you have 
 
 The teacher swallowed, “I thought a bodyguard’s prime directive was defensive, not offensive.”
 
-Suzie rolled her eyes, “Only while a client is within the threats proximity. If separated they are authorised to use lethal force if necessary to eliminate the threat.”
+Suzie rolled her eyes, “Only while a client is within the threat’s proximity. If separated they are authorised to use lethal force if necessary to eliminate the threat.”
 
 The teacher nodded, “Stephen, can you take Jason to the nurse?”
 
 The student she’d knocked over nodded and picked up the other slowly and walked out of the room slowly and Suzie turned to the teacher, “I think you should forget this incident.”
 
-“Yet it is still a perfect example of neural networks.”
+“Yet, it is still a perfect example of neural networks.”
 
 Suzie sighed and found a seat, and pulled out her books, she sat back and refused to take notes.
 
@@ -152,17 +154,17 @@ Suzie sighed and found a seat, and pulled out her books, she sat back and refuse
 
 Recess.
 
-Suzie grabbed a drink from her locker and headed out to her old haunt, and saw that as usual it was empty. She flipped easily into the tree and climbed up slowly to the top, and leant back to relax.
+Suzie grabbed a drink from her locker and headed out to her old haunt, and saw that, as usual, it was empty. She flipped easily into the tree and climbed up slowly to the top, and leant back to relax.
 
-Then she heard somebody below her, she clenched a fist and heard, “Easy girl.”
+Then she heard somebody below her.  She clenched a fist and heard, “Easy, girl.”
 
-She sat up in surprise as she recognised the voice, she almost fell out of the tree, barely grabbing a branch, he laughed as he climbed up opposite to her, “Hello Suzie.”
+She sat up in surprise as she recognised the voice, she almost fell out of the tree, barely grabbing a branch, he laughed as he climbed up opposite to her, “Hello, Suzie.”
 
 She smiled and pulled herself back up, “You came here?”
 
 “After this morning I didn’t think I had a whole heap of choice.” John replied and Suzie winced, “Sorry about that… And about psych…”
 
-He nodded slowly, “Yeah… I kind of lost it when she told me what she’d tried… So she kind of knows what your capable of.”
+He nodded slowly, “Yeah… I kind of lost it when she told me what she’d tried… So, she kind of knows what you’re capable of.”
 
 Suzie groaned, “Thanks a lot!”
 
@@ -186,7 +188,7 @@ John shrugged, “Everybody gets it wrong… And it could have been a once off t
 
 Suzie rolled her eyes, “If it had been he wouldn’t have shot at me unless there was somebody else in that truck. I doubt that there was.”
 
-John nodded and then Suzie’s eyes widened, “Your kidding me! I missed it…”
+John nodded and then Suzie’s eyes widened, “You’re kidding me! I missed it…”
 
 John winced, “Yeah… He got away.”
 
@@ -222,9 +224,9 @@ She took a seat and pulled out her books as the other students began arriving, a
 
 Suzie laughed, “None with that attitude. Show a little more confidence, and a little more curiosity.”
 
-Ted laughed, “So I have to guess it do I?”
+Ted laughed, “So, I have to guess it, do I?”
 
-The teacher coughed and Ted turned back to the front and he begun, “Today we are starting the chapter on trajectory. Please don’t snore Susan.”
+The teacher coughed and Ted turned back to the front and he begun, “Today we are starting the chapter on trajectory. Please don’t snore, Susan.”
 
 She gritted her teeth, “Suzie. And I’ll try not to.”
 
@@ -234,7 +236,7 @@ Then an opportunity arose and Suzie held up her hand as the fog lifted slowly af
 
 “The angle has an infinitesimal continuous decimal, so I won’t bore you all with exactness. But it is approximately 19.814 degrees and the force required is 27 newtons.”
 
-Ted’s head jerked up and he wrote a number down on his hand and Suzie sat down laughing, “That’s not it boy. Think a little more.”
+Ted’s head jerked up and he wrote a number down on his hand and Suzie sat down laughing, “That’s not it, boy. Think a little more.”
 
 Ted frowned and looked at the figure, 0417 689 2 (814)-24.
 
@@ -252,13 +254,13 @@ She smiled to herself, she had an out. “Piss off.”
 
 His response was fast and predictable, “Get out. I’ll talk to you soon.”
 
-She stood up and walked out, not quite managing to hide her pleasure with the decision, as soon as the door closed she grabbed her phone and answered it, “Hello?”
+She stood up and walked out, not quite managing to hide her pleasure with the decision. As soon as the door closed she grabbed her phone and answered it, “Hello?”
 
-“Hello Susan.”
+“Hello, Susan.”
 
 She frowned, “Who is this?”
 
-“If you cooperate you will live. If you don’t. You will die. And O’Connor will die.”
+“If you cooperate, you will live. If you don’t. You will die. And O’Connor will die.”
 
 She swallowed, “What do you want?”
 
@@ -276,7 +278,7 @@ The teacher frowned and then turned around and walked away, “That was very cle
 
 “Just do it girl.”
 
-Suzie ran the path, a pre-set escape route, one she’d never mentioned to any body, simply memorised. She saw O’Connor starring at her through the window for a brief flash and the voice on the phone spoke again, “Warn him if you want, but don’t slow down. Or he dies. Then you will die five minutes later.”
+Suzie ran the path, a pre-set escape route, one she’d never mentioned to anybody, simply memorised. She saw O’Connor starring at her through the window for a brief flash and the voice on the phone spoke again, “Warn him if you want, but don’t slow down. Or he dies. Then you will die five minutes later.”
 
 Suzie gritted her teeth as she rounded a corner, as she saw the window approaching she flashed a finger symbol and O’Connor instantly swore and began sprinting.
 
@@ -300,13 +302,11 @@ The man who had closed it turned to her, he looked about eighteen at the most.
 
 He grinned, “Well, well. Susan Drakes herself.”
 
-She glared at him and he grinned, “But you prefer Suzie don’t you?”
-
-She sneered, “Not from you.”
+She glared at him and he grinned, “But you prefer Suzie don’t you?”  She sneered, “Not from you.”
 
 He frowned, “And who am I? I’m just the delivery boy.”
 
-“You’re the one who was on the phone… I would like to know where the cameras where placed though.”
+“You’re the one who was on the phone… I would like to know where the cameras were placed, though.”
 
 He laughed, “You wouldn’t believe me if I told you.”
 
@@ -326,9 +326,9 @@ He grinned at her, “I think you should be able to put one and one together now
 
 The blood drained from Suzie’s face, “Armoured poseable exo-skeleton. Attach to it your laser weapons and have a triangulation method to make it precise.”
 
-Josiah nodded, “Yep. But now that I’ve had time to examine that arm I’m fairly certain I won’t need you… But I know no matter what I do you’ll be trying to get the word out, so why should I make things easy for you?”
+Josiah nodded, “Yep. But now that I’ve had time to examine that arm I’m fairly certain I won’t need you… But I know no matter what I do, you’ll be trying to get the word out, so why should I make things easy for you?”
 
-Suzie frowned, “You predicted me didn’t you?”
+Suzie frowned, “You predicted me, didn’t you?”
 
 Josiah laughed, “Yes… But in what?”
 
@@ -336,7 +336,7 @@ Suzie sneered, “You engineered the attack on the Senator, a viable target, sim
 
 “Why would I do that?” Josiah asked knowingly and Suzie winced, “So I was easy to pick up, and it was easy to get an eyeball on O’Connor… A section chief’s assassination isn’t something I’d let be on my own head.”
 
-Josiah shook his head, “More than that. I know that O’Connor is like a big brother to you, and he’s your friend. I counted more on the emotional level than the professional, which is fairly stupid in retrospect, the only time that really works well is when two people are in love.”
+Josiah shook his head, “More than that. I know that O’Connor is like a big brother to you, and he’s your friend. I counted more on the emotional level than the professional, which is fairly stupid in retrospect. The only time that really works well is when two people are in love.”
 
 Suzie sighed, “A genius who is in love with money is my current assessment of you. I think it will change… For the worse.”
 
@@ -346,13 +346,15 @@ Suzie kept quiet; she knew something didn’t quite ring true about that stateme
 
 ---
 
-“What is this about O’Connor? I haven’t heard anything on the horn about another Senator being beaten up… So what do you want with me?” Chief Detective Superintendent Styles asked, and the man standing in his office turned and looked out the window, “One of my agents has been captured.”
+“What is this about, O’Connor? I haven’t heard anything on the horn about another Senator being beaten up… So what do you want with me?” Chief Detective Superintendent Styles asked, and the man standing in his office turned and looked out the window.
 
-Styles raised his eyebrows, “The kidnapping of a bodyguard? That’s very unusual… Unless it is of course the girl who is off duty…”
+“One of my agents has been captured.”
 
-O’Connor simply nodded and Styles shrugged, “What can we do? How can we do anything about it? Because I assume you have no leads, because your not supposed to be in contact with her, so as the school hasn’t reported it in…”
+Styles raised his eyebrows, “The kidnapping of a bodyguard? That’s very unusual… Unless it is, of course, the girl who is off duty…”
 
-O’Connor turned, “She was an exception. She was given a priority two status. Not by me… By somebody higher. She was being kept in the loop… And I was about to try and bring her back in, when she got a phone call from somebody. Then she took off like crazy… She warned me of imminent danger to both our lives, likely by sniper.”
+O’Connor simply nodded and Styles shrugged, “What can we do? How can we do anything about it? Because I assume you have no leads, because you’re not supposed to be in contact with her, so as the school hasn’t reported it in…”
+
+O’Connor turned, “She was an exception. She was given a priority-two status. Not by me… By somebody higher. She was being kept in the loop… And I was about to try and bring her back in, when she got a phone call from somebody. Then she took off like crazy… She warned me of imminent danger to both our lives, likely by sniper.”
 
 Styles grinned, “All those hand signals… It still amazes me that people can remember them.”
 
@@ -370,7 +372,7 @@ Styles frowned, “What sort of details on the van have you got?”
 
 John winced, but stayed silent, and Styles frowned, “John?”
 
-“The van belongs to McIntyre Industries. It was registered as missing three months ago after an office party.”
+“The van belongs to McIntyre Industries. It was registered as missing three months ago, after an office party.”
 
 Styles sighed, “So pretty much we’ve got nothing. Because McIntyre won’t let us waltz in…”
 
@@ -398,9 +400,11 @@ She rolled her eyes at that.
 
 ---
 
-“Styles… Why do I always shiver when you come in person instead of call?” Jason McKenzie asked, and his boss grinned, “I’ve got a job in your line of work.”
+“Styles… Why do I always shiver when you come in person instead of call?” Jason McKenzie asked, and his boss grinned.
 
-Jason shook his head, “Heck no. Barely got out alive last time!”
+“I’ve got a job in your line of work.”
+
+Jason shook his head, “Heck, no. Barely got out alive last time!”
 
 Styles shrugged, “That was because of some creep with a gas tank, this is a lot easier.”
 
@@ -432,13 +436,13 @@ John hung up politely and massaged his forehead, trying to think… Then he frow
 
 “One moment… Sixteen kilometres by car. Fourteen point eight by air.”
 
-“Thankyou.” He hung up and logged into the system and pulled up a map and located the warehouse. Sixteen kilometres to Parliament… Twenty-seven point four to her school. A very small distance to cover to create a very large message.
+“Thank you.” He hung up and logged into the system and pulled up a map and located the warehouse. Sixteen kilometres to Parliament… Twenty-seven point four to her school. A very small distance to cover to create a very large message.
 
 He rang the courts. He needed a warrant.
 
 ---
 
-Josiah pointed to the elevator and Suzie looked at him, he laughed, “You think I want my head taken off? You go alone on the way up. If you don’t arrive… You know the consequences.”
+Josiah pointed to the elevator, and Suzie looked at him. He laughed, “You think I want my head taken off? You go alone on the way up. If you don’t arrive… You know the consequences.”
 
 She nodded slowly and stepped in, as the elevator began to ascend, she completely ignored Josiah’s advice. She checked the roof hatch for a wire, and then exited slowly, and then she dropped off the edge of the elevator and began to let herself descend, then reached out with her metallic arm and grabbed an opening before it could shoot passed. She jerked to a stop and blinked as stars faded from her view and pulled herself upright, and punched between the doors and pried them open.
 
@@ -472,11 +476,11 @@ Styles frowned as the file was handed to him, “Where was the body found?”
 
 His lieutenant frowned, “I told you sir, at the warehouse on that map.”
 
-Styles nodded, “The problem is that is so close to Parliament… And according to this he died early yesterday… And has only just been discovered. Thirty six hours in a high priority zone doesn’t make us look good.”
+Styles nodded, “The problem is that is so close to Parliament… And according to this he died early yesterday… And has only just been discovered. Thirty-six hours in a high priority zone doesn’t make us look good.”
 
 Styles nodded, “I’ll take it. You can go now.”
 
-“Thankyou sir.”
+“Thank you, sir.”
 
 Styles picked up the phone and dialled. O’Connor needed to know.
 
@@ -530,7 +534,7 @@ She went limp in the air; he dropped his gun and dove to catch her.
 
 “I’ll be interviewing him later… A stiff turned up in the warehouse. Keep in touch.”
 
-Styles rang off and John felt like he needed to hit something badly. He headed down towards the training gym.
+Styles ran off and John felt like he needed to hit something badly. He headed down towards the training gym.
 
 ---
 
@@ -562,27 +566,27 @@ Styles turned around and frowned as he saw two people waiting at the yellow tape
 
 Styles frowned, “Is that John O’Connor?”
 
-The policeman nodded and swallowed, and Styles rolled his eyes, “Let them through… O’Connor out ranks me.”
+The policeman nodded and swallowed, and Styles rolled his eyes, “Let them through… O’Connor outranks me.”
 
 The cop turned and walked towards them and Styles clenched his jaw, what was the man playing at coming here?
 
-As John walked up beside him Styles spoke, “I think I should let you know that the only reason your ass is being kicked out of here is your rank.”
+As John walked up beside him, Styles spoke, “I think I should let you know that the only reason your ass is being kicked out of here is your rank.”
 
-Styles nodded, “True enough… But Anderson was the one who fired the shotgun at one of my agents. He drove the truck that was the red herring that almost got Senator Davian killed. So I am fully within my rights to be here. He’s my suspect; I need to know why he died. I know how, and it ain’t a nice thing to do.”
+Styles nodded, “True enough… But Anderson was the one who fired the shotgun at one of my agents. He drove the truck that was the red herring that almost got Senator Davian killed. So, I am fully within my rights to be here. He’s my suspect; I need to know why he died. I know how, and it ain’t a nice thing to do.”
 
 Styles frowned, “Right… Well… I can’t help you there.”
 
 John frowned, “You’ve removed the body… Show me what was here.”
 
-Styles shrugged, “Pretty much nothing. Until this morning nobody had been here since the clean out and the purchase. The movers were bringing equipment in this morning, they found the corpse.”
+Styles shrugged, “Pretty much nothing. Until this morning nobody had been here since the clean out and the purchase. The movers were bringing equipment in this morning. They found the corpse.”
 
 John winced, “Jaw through the eyes… Do you think it was making sure he would never talk or his failure to take out the guard completely?”
 
-Styles shrugged, “To early to make conjecture.”
+Styles shrugged, “Too early to make conjecture.”
 
 “At your best guess?”
 
-Styles shrugged, “From what little we have, I’d say it was to shut him up. Because it looked like he was involved voluntarily didn’t it?”
+Styles shrugged, “From what little we have, I’d say it was to shut him up. Because it looked like he was involved voluntarily, didn’t it?”
 
 John sighed, “We need to speak to the son. You got the address?”
 
@@ -592,7 +596,7 @@ John frowned, “Samuel R. Anderson. Lives in the Parliament area, was once a bo
 
 Styles raised his eyebrows, “That changes things. I’ll find him, and then I’ll call you. But for now, get the hell out of my jurisdiction.”
 
-John nodded, “Thankyou.”
+John nodded, “Thank you.”
 
 He turned and walked away and Styles wondered who was the agent that was shadowing John… Then it hit him; John had only gotten involved when it turned out there was a murder. This kid had been tracking down the stiff.
 
@@ -612,21 +616,23 @@ The plans!
 
 “Stop thinking girl. It will only hurt more.”
 
-She winced and spoke, “Your drawing up plans for your idea.”
+She winced and spoke, “You’re drawing up plans for your idea.”
 
-“Only from what I can theorise. Now go back to sleep. I need you at your best.”
+“Only from what I can theorise. Now, go back to sleep. I need you at your best.”
 
 If he hadn’t kidnapped her she might have liked working with him…
 
 ---
 
-“What is it Jack?” John asked as he drove, and the agent spoke slowly, “He acted very coldly. You let him get away with it.”
+“What is it Jack?” John asked as he drove, and the agent spoke slowly.
+
+“He acted very coldly. You let him get away with it.”
 
 O’Connor smiled, “He had started putting it together when we left. He’ll have just remembered that I wouldn’t have to be researching a corpse if his men had done their job properly. That’s your next job.”
 
 Jack winced, “Interview the cops that were meant to take him in?”
 
-“Their in the hospital. Show your badge. That’s more than enough to get you an interview. Officers O’Reilly and Courtney.”
+“They’re in the hospital. Show your badge. That’s more than enough to get you an interview. Officers O’Reilly and Courtney.”
 
 Jack nodded, “Right.”
 
@@ -636,13 +642,15 @@ Jack nodded, “Right.”
 
 Jack rolled his eyes, “I know that. I carry a little authority though.”
 
-“You could outrank Detective Styles and I wouldn’t let you in.” The nurse retorted and Jack grinned, “Do you really mean that? Because I do.”
+“You could outrank Detective Styles and I wouldn’t let you in,” the nurse retorted and Jack grinned.
 
-He pulled out his badge and put it on the counter. Her eyes widened in shock as she saw the four little letters that made police jump when he said, ASIO.
+“Do you really mean that? Because I do.”
+
+He pulled out his badge and put it on the counter. Her eyes widened in shock as she saw the four little letters that made police jump when he said "ASIO."
 
 She nodded, “Room 243 and 246.”
 
-Jack smiled and picked it up, “Thankyou so much.”
+Jack smiled and picked it up, “Thank you so much.”
 
 He turned and began walking down the hallway as he heard her calling in to confirm his validity. She’d get it.
 
@@ -650,7 +658,7 @@ Jack Olsen was a registered member of ASIO… But he was still in the car with O
 
 ---
 
-Jack stepped out of the car, “See you soon sir.”
+Jack stepped out of the car, “See you soon, sir.”
 
 O’Connor nodded, “Perhaps.”
 
@@ -674,7 +682,7 @@ The left kneecap shattered and the man went down, the man pointed his gun up to 
 
 “Not today asshole.”
 
-The man laughed through gritted teeth, “Your too late though.”
+The man laughed through gritted teeth, “You’re too late though.”
 
 Jack walked up and knocked him out before he could try another way out.
 
@@ -714,7 +722,7 @@ Josiah stood with his back to her some distance away, with two robotic exoskelet
 
 He was using them to build something else, and attached to the wrist was a tool of some sort, and as she watched it folded into the arm and something else came out, and this she recognised, a plasma cutter.
 
-Tools on both wrists were constantly folding in and out, and Josiah was sweating over whatever he was constructing, however it was a tiny object.
+Tools on both wrists were constantly folding in and out, and Josiah was sweating over whatever he was constructing, however. It was a tiny object.
 
 She stood up slowly, and stretched, and winced as she felt her arm refuse to move, she reached over to her shoulder and pressed a catch and a hissing filled the air.
 
@@ -722,25 +730,25 @@ Then she pulled a latch and winced as the metal frame eased away from her body, 
 
 Suzie knelt down and looked at it closely, and bit her lip as she saw the cause of the lack of movement. One of the microprocessors was missing.
 
-“It’s okay. I’m almost done with it… I couldn’t duplicate the coding… I couldn’t get a grip on the syntax that you used… It wasn’t any recognisable programming language… And it relied on other libraries built on non-existent libraries… I went down to the hex code, and damn it was complex. So I kind of… Borrowed it.”
+“It’s okay. I’m almost done with it… I couldn’t duplicate the coding… I couldn’t get a grip on the syntax that you used… It wasn’t any recognisable programming language… And it relied on other libraries built on non-existent libraries… I went down to the hex code, and damn, it was complex. So I kind of… Borrowed it.”
 
 Suzie raised an eyebrow at Josiah, “Are you apologising? To somebody you kidnapped?”
 
 Josiah swallowed, “Yeah… Guess I am.”
 
-Suzie laughed, “Right… So what have you been building that you needed those arms for?”
+Suzie laughed, “Right… So what have you been building, that you needed those arms for?”
 
 “My own microprocessor. One to replace yours… But it needs to be able to handle four limbs with as much precision.”
 
 Suzie nodded, “Right. Hurry up. I hate not being able to use it.”
 
-Josiah turned back around and continued working, and finished two minutes later and touched one of the arm plates and pressed a sequence of buttons and the processor rose to the surface and he pulled it out gently, and then replaced it with his own.
+Josiah turned back around and continued working, finished two minutes later, and touched one of the arm plates. He pressed a sequence of buttons, and the processor rose to the surface and he pulled it out gently, then replaced it with his own.
 
 The chip slid in and Josiah moved his arms and winced at something, the movements seemed a little more emphatic than normal, but other than that Suzie didn’t notice anything.
 
-Josiah unbuckled the arms and stepped out of them, and picked up her processor and walked over to her, and placed it in it’s place, a piece of metal immediately slid over it.
+Josiah unbuckled the arms and stepped out of them. He picked up her processor and walked over to her, placing it in it’s place. A piece of metal immediately slid over it.
 
-He smiled softly at her and helped her place the machine on again, as it powered up Suzie moved it slowly, and winced as the familiar movement returned, it only occurred at the start of the day, as her muscles unstiffened from sleep.
+He smiled softly at her and helped her place the machine on again, as it powered up. Suzie moved it slowly, and winced as the familiar movement returned. It only occurred at the start of the day, as her muscles unstiffened from sleep.
 
 Josiah frowned, “How do you do it? Let people look at you day by day as some sort of cryptic genius? I’m no where near your level… And yet I have to put on an act of arrogance… Though I lose myself in the act most days… I forget who I am… How do you do it?”
 
@@ -748,7 +756,7 @@ Suzie smiled softly, “My attitude has always been one of defiance… Even befo
 
 Josiah laughed, “Right… Well… I have what I need… You can build whatever you want in here… I just ask you don’t kill or harm my men… And don’t try and leave before I’m finished. Please also don’t sabotage anything… Try and be a nice guest… Please?”
 
-Suzie smiled, “I’m not sure I do want to run… It’s been a while since I can talk to anyone who can understand anything I do… Even when I drop hints… They fail so often…”
+Suzie smiled, “I’m not sure I do want to run… It’s been a while since I could talk to anyone who can understand anything I do… Even when I drop hints… They fail so often…”
 
 Josiah frowned, “That thing with Ted meant a lot to you didn’t it? And he failed your test didn’t he?”
 
@@ -756,7 +764,7 @@ Suzie winced, “Yeah. I’d given up hope finding anyone my age on my level… 
 
 Josiah laughed, “I know what you mean… You know how much I’m in the spotlight… I don’t like older women.”
 
-Suzie grinned, “Most of them would be old enough to be your mother wouldn’t they?”
+Suzie grinned, “Most of them would be old enough to be your mother, wouldn’t they?”
 
 Josiah rolled his eyes, “Yeah… Please don’t remind me.”
 
@@ -786,17 +794,17 @@ Behind the one-way mirror sat a man running a hand through his hair, thinking ha
 
 John O’Connor was worried, and for a very good reason, Jack Olsen was not a well-known figure, in fact he’d only transferred to John’s department a couple months ago. He was an office boy, a researcher of high degree.
 
-He’d been rented out to the police a couple times, but not on any publicised assignment. Which meant that he’d come to the attention of whoever he was up against a while ago. At least eighteen months…
+He’d been rented out to the police a couple times, but not on any publicised assignment, which meant that he’d come to the attention of whoever he was up against a while ago. At least eighteen months…
 
 John O’Connor was a worried man.
 
 ---
 
-Suzie frowned as she picked up the chip and examined it, “Wire well enough…”
+Suzie frowned as she picked up the chip and examined it, “Wired well enough…”
 
 Josiah turned around, “I just got that working!”
 
-Suzie nodded, “I know… I also know that it isn’t as good as mine so shut up.”
+Suzie nodded, “I know… I also know that it isn’t as good as mine, so shut up.”
 
 Josiah shook his head, and then a beep emitted from one of his pockets and Josiah gritted his teeth and Suzie laughed, “Board members?”
 
@@ -820,7 +828,7 @@ Suzie frowned, “It doesn’t recognise nodes in a biological system. This codi
 
 Josiah frowned, “How’s that?”
 
-Suzie smiled, “There is a computer chip, a tiny processor, less than three millimetres across, lodged inside my brain. Attached to the motion sensoria. It and the chip in my arm that this is a replacement for send commands back and forth, built almost exactly as a replica for the nervous system. In fact… If my diagnostic’s were correct earlier this year, it could be used as a way to overcome MS, multiple scrolosis.”
+Suzie smiled, “There is a computer chip, a tiny processor, less than three millimetres across, lodged inside my brain. Attached to the motion sensoria. It and the chip in my arm that this is a replacement for send commands back and forth, built almost exactly as a replica for the nervous system. In fact… If my diagnostics were correct, earlier this year, it could be used as a way to overcome MS, multiple scrolosis.”
 
 Josiah nodded slowly, “Right… I wish I could cancel this meeting… But it’s an international, so I’m pushing my luck as is. I’ll be back later… And could you teach me a little more about this system?”
 
@@ -836,7 +844,7 @@ He turned around and stepped into the elevator and waved her goodbye and Suzie f
 
 He looked up as the man sat down in front of him, “Crap. So he isn’t talking to me right now?”
 
-The man shook his head, “O’Connor couldn’t find a reason for Styles to take you in. That’s the only reason your talking to me and not to steel bars.”
+The man shook his head, “O’Connor couldn’t find a reason for Styles to take you in. That’s the only reason you’re talking to me and not to steel bars.”
 
 “Crap.”
 
@@ -870,7 +878,7 @@ Suzie rolled her eyes, “Of course I do. I have both Internet access and eyes. 
 
 “No.”
 
-Suzie sneered and turned her back on the intercom and walked over to the parts again and began pulling out other particular parts, several blue-ray drives, a couple motherboards and several 500watt power supplies, and a blank processor chip.
+Suzie sneered and turned her back on the intercom and walked over to the parts again and began pulling out other particular parts, several blue-ray drives, a couple motherboards and several 500-watt power supplies, and a blank processor chip.
 
 ---
 
@@ -890,7 +898,7 @@ He looked over at Suzie as she held what looked like a junky pistol at him, “E
 
 She nodded, “It would be.”
 
-He winced, “The guard ignored my advice… I just got back… Now tell me why exactly your trying to kill me with a high powered laser gun.”
+He winced, “The guard ignored my advice… I just got back… Now tell me why exactly you’re trying to kill me with a high powered laser gun.”
 
 Suzie grinned, “Because I want to go now. If I’m going to be left with jerks… I think I’ll simply break out. How does that sound?”
 
@@ -900,9 +908,9 @@ Suzie frowned and Josiah sighed, “I’m building the exoskeleton for a militar
 
 Suzie smiled, “Electro-magnetic pulse… How large?”
 
-Josiah shrugged, “With my current designs it could take down one hundred thousand square kilometres… But that’s not enough for me. I need to be able to take down at least four hundred and thirty eight square kilometres.”
+Josiah shrugged, “With my current designs it could take down one hundred thousand square kilometres… But that’s not enough for me. I need to be able to take down at least four hundred and thirty eight thousand square kilometres.”
 
-Suzie raised her eyebrows, “That’s the entire of Iraq… Sure that’s a wise decision?”
+Suzie raised her eyebrows, “That’s the entire size of Iraq… Sure that’s a wise decision?”
 
 Josiah shrugged, “I need to make a statement. Every weapon I’ve produced in the last six years has a similar EMP device inbuilt… The newer it is the larger it can go. It will be a world wide phenomenon.”
 
@@ -912,13 +920,13 @@ Josiah smiled, “It’s worth the risk isn’t it? To make a civilised people�
 
 Suzie sighed, “I can’t say I agree with it. But I agree with the principle behind it. We need to stop the wars… I don’t agree that this is the way. You might save a few people… But you can just as easily cause a world war.”
 
-“With what? McIntyre Industries is the world’s number one supplier of weapons. To both terrorists and governments thanks to the black market. This EMP can be triggered multiple times. I could do it again… I could make it permanent. New technology would have to be developed. People would be forced to change either way… Even if it’s only their perspective. It is the capacity for good in the human race that makes this worth while…”
+“With what? McIntyre Industries is the world’s number one supplier of weapons, to both terrorists and governments, thanks to the black market. This EMP can be triggered multiple times. I could do it again… I could make it permanent. New technology would have to be developed. People would be forced to change, either way… Even if it’s only their perspective. It is the capacity for good in the human race that makes this worth while…”
 
-Suzie sighed, “Right… I won’t stop you. But get your men to leave me alone from now…”
+Suzie sighed, “Right… I won’t stop you. But get your men to leave me alone, for now…”
 
-Josiah shrugged, “I may have to let you go now anyway… You sent one of my men to the hospital with that thing.”
+Josiah shrugged, “I may have to let you go now, anyway… You sent one of my men to the hospital with that thing.”
 
-Suzie tossed it aside, “Modified blue-ray… High-density lasers are invisible… So he never saw it coming. Just got blasted in the chest when he wouldn’t back off. I showed him what it could do… Fired at the ceiling twice… But because he didn’t see it fire, he didn’t look up… I may have just got my first kill.”
+Suzie tossed it aside, “Modified Blu-ray… High-density lasers are invisible… So he never saw it coming. Just got blasted in the chest when he wouldn’t back off. I showed him what it could do… Fired at the ceiling twice… But because he didn’t see it fire, he didn’t look up… I may have just got my first kill.”
 
 Josiah winced, “It wasn’t your fault. Leave it at that… Now tell me what that thing attached to my mechanical arms is.”
 
@@ -976,13 +984,13 @@ Josiah sighed and turned around and went to brace himself as he picked it up, he
 
 Josiah frowned and tossed it back and forth between his hands, “It feels light as a feather… And natural. It just seems like I’ve gotten stronger, not awkwardness… I barely realise that there’s a metal frame pressing down on my arms.”
 
-Suzie nodded, “Good… Now all we have to do is build the other two limbs, and then armour it. The armour can’t be too heavy… It’ll slow the reaction time a bit… How about light armour? Kevlar MrkII level?”
+Suzie nodded, “Good… Now all we have to do is build the other two limbs, and then armour it. The armour can’t be too heavy… It’ll slow the reaction time a bit… How about light armour? Kevlar Mark II level?”
 
 Josiah frowned, “Your average cop wears that… It’s barely even bullet proof…”
 
 Suzie nodded, “Yeah… But this soldier will be faster and more accurate… More in your face. Harder to shoot, doesn’t depend on his armour to save his ass.”
 
-Josiah nodded, “Makes sense I suppose… But what about the EMP?”
+Josiah nodded, “Makes sense, I suppose… But what about the EMP?”
 
 Suzie looked over at the piece of hardware sitting on the desk, “We need to make it smaller… And more powerful. Ever thought of using a satellite transmission sequence to do it? Instead of simply a point of origin?”
 
@@ -1004,15 +1012,15 @@ Jack nodded, “Very professional for a truckie wouldn’t you say?”
 
 John nodded, “Indeed. Strange…”
 
-John turned away to think as Jack bent over and examined the tape closer, as John looked at the truck, he touched the dints and then a smile grew over his face, “They weren’t taking chances. These were made by rubber coated ball bearings.”
+John turned away to think as Jack bent over and examined the tape closer, as John looked at the truck, he touched the dints and then a smile grew over his face, “They weren’t taking chances. These were made of rubber coated ball bearings.”
 
-“Rubber bullets?” Jack asked dubiously looking up, O’Connor nodded, “Shell’s make deeper holes… And they knock the paint off. They were trying to catch her… I think if she hadn’t torn through the granite then she would have been lifted off the back by a helicopter. They didn’t expect her to break through the granite.”
+“Rubber bullets?” Jack asked dubiously looking up, O’Connor nodded, “Shells make deeper holes… And they knock the paint off. They were trying to catch her… I think if she hadn’t torn through the granite then she would have been lifted off the back by a helicopter. They didn’t expect her to break through the granite.”
 
 Jack bit his lip, “So where could they take her easily? And lose us?”
 
 “Check the traffic for anomalies. Differences is traffic patterns… In the form of a track of transport that could transport her across the city. This was set up well.”
 
-Jack nodded and John frowned as his phone rang, he picked it up, and frowned, “You found him? Thankyou Styles.”
+Jack nodded and John frowned as his phone rang, he picked it up, and frowned, “You found him? Thank you, Styles.”
 
 Jack raised an eyebrow as John hung up, “Well?”
 
@@ -1042,9 +1050,9 @@ John nodded, “Get the information out of him… Or I will.”
 
 ---
 
-Jack smiled, “Perfect… Sixteen unaccounted for anomalies… This should be easy enough.”
+Jack smiled, “Perfect… Sixteen unaccounted-for anomalies… This should be easy enough.”
 
-Then his phone rang and he picked it up, “If you want your boss to keep on living do what I say.”
+Then his phone rang, and he picked it up, “If you want your boss to keep on living do what I say.”
 
 Jack swallowed, “Who is this?”
 
@@ -1146,7 +1154,7 @@ John ran a hand through his hair, “Why would you say that?”
 
 O’Connor spun around as he heard a thump, and then the one way mirror shattered and Stacy fell through with a bullet in her skull, he saw Jack sprinting up the hall behind somebody and firing.
 
-“You should have listened O’Connor. He can get in anywhere he likes, and do anything he wants.”
+“You should have listened, O’Connor. He can get in anywhere he likes, and do anything he wants.”
 
 John turned around slowly, “He threatened one of my agents. He’s killed another. Calculate the odds of you getting out of here alive.”
 
@@ -1224,7 +1232,7 @@ Styles frowned, “When he wakes up, tell him that I am going to take the buildi
 
 The nurse frowned as Styles turned around and stormed out of the hospital, fire in his eyes.
 
-As he exited the building Styles pulled off his coat and tossed it into the rubbish bin and stepped into the police car.
+As he exited the building, Styles pulled off his coat and tossed it into the rubbish bin, and stepped into the police car.
 
 “Get to the ASIO building.”
 
@@ -1264,7 +1272,7 @@ Styles frowned as the cars pulled up a block from the apartment building and he 
 
 Styles stepped out of the car slowly and frowned looking at the other agents, “How far are you willing to go to get this girl?”
 
-The agent he’d spoken to earlier laughed, “This is personal now Styles. He attacked our own and killed one of us. Kidnapping pisses us off… Now he’s killed one, and maybe two. He attacked O’Connor. We’ll go to hell and back to take this man out.”
+The agent he’d spoken to earlier laughed, “This is personal now, Styles. He attacked our own and killed one of us. Kidnapping pisses us off… Now he’s killed one, and maybe two. He attacked O’Connor. We’ll go to hell and back to take this man out.”
 
 Styles smiled, “Good. Because that is pretty much what we’re walking into.”
 
@@ -1274,7 +1282,7 @@ They pumped their shotguns and the agent grinned, “Let’s do this.”
 
 Suzie frowned as she saw the guard stepping into the exoskeleton and realised something was wrong. Very wrong.
 
-She pulled herself into a stand slowly and bit her lip to stop from screaming and as the guard stepped into the elevator and began descending she half dragged herself over to the QNN and began typing, searching desperately to find a way out.
+She pulled herself into a stand slowly and bit her lip to stop from screaming. And as the guard stepped into the elevator and began descending, she half-dragged herself over to the QNN and began typing, searching desperately to find a way out.
 
 ---
 
@@ -1283,11 +1291,12 @@ She pulled herself into a stand slowly and bit her lip to stop from screaming an
 He froze and turned and looked up as he saw on top of the apartment building a metal machine… And he realised that somebody was inside it.
 
 “Welcome to hell!”
+
 Styles growled and dove to the side as the pavement exploded where he had been standing.
 
 He looked at the agents, “Get her out of there! I’ll take this idiot down.”
 
-He pulled his pistol and ran into an alley, and smiled as he heard the machine hit the ground, then he winced as he heard shotgun blasts and screams as he realised that the man hadn’t taken the bait.
+He pulled his pistol and ran into an alley, and smiled as he heard the machine hit the ground. Then he winced, as he heard shotgun blasts and screams, as he realised that the man hadn’t taken the bait.
 
 Styles stepped back to the entrance and fired twice, and the machine spun to him and raised a hand, and Styles swore and dove away as a rocket blasted towards him.
 
@@ -1297,7 +1306,7 @@ Suzie blinked, “It can’t be that easy… Can it?”
 
 She tapped a few keys, and then heard a gun cock, “Time to die little girl.”
 
-She felt somebody grab her hair and she screamed as he dragged her, she spun and tried to punch him, he dropped her and slammed the barrel of his gun down on her injured ankle, she felt the air go out of her body and her vision swam for a moment with the agony.
+She felt somebody grab her hair and she screamed as he dragged her. She spun and tried to punch him. He dropped her and slammed the barrel of his gun down on her injured ankle. She felt the air go out of her body and her vision swam for a moment with the agony.
 
 The guard sneered, “Don’t even try it. You don’t have a chance.”
 
@@ -1305,19 +1314,19 @@ Suzie smiled and pulled herself to her feet, “You really have no idea do you?�
 
 He went to punch her and she caught the fist and swung around her mechanical arm.
 
-The guard never stood a chance, she heard his neck crack and he was thrown out of her grasp and she nodded and picked up the gun, turned back to the QNN and hit the enter key and it began to run a script.
+The guard never stood a chance, she heard his neck crack and he was thrown out of her grasp. She nodded and picked up the gun, turned back to the QNN and hit the enter key, and it began to run a script.
 
 She turned and limped over to the elevator and hit the button to go down.
 
 ---
 
-Josiah spun around as another shotgun blast hit his armour, he sneered and activated the machine gun on the left arm, and the agent tried to dodge to the side, but he didn’t stand a chance.
+Josiah spun around as another shotgun blast hit his armour. He sneered and activated the machine gun on the left arm. The agent tried to dodge to the side, but he didn’t stand a chance.
 
 Then he glimpsed the lobby of the apartment building and saw something disturbing. The elevator was on the move towards the ground, which meant Suzie was alive and well, and moving.
 
-He spun back and fired a rocket at the doors, it blew through the glass and slammed into the metal doors and the caved inwards in an explosion, and Josiah grinned he turned back around and saw two agents pointing shotguns at him.
+He spun back and fired a rocket at the doors. It blew through the glass and slammed into the metal doors and the caved inwards in an explosion, and Josiah grinned. He turned back around and saw two agents pointing shotguns at him.
 
-He sighed and raised both hands, and then he felt something slight, and leapt into the air, an agent fell backwards off him and he turned and fired a burst of the machine gun.
+He sighed and raised both hands, and then he felt something slight, and leapt into the air. An agent fell backwards off him, and he turned and fired a burst of the machine gun.
 
 He hit the ground and spun around slowly, looking at the remaining agents, “Do you really think you have what it takes?”
 
@@ -1329,11 +1338,11 @@ He frowned and brought up the targeting system… And saw it had locked onto him
 
 He had thirty seconds until his suit was rendered useless.
 
-He activated the machine gun and spun around in a circle, gunning down the agents as soon as he could see them.
+He activated the machine gun, and spun around in a circle, gunning down the agents as soon as he could see them.
 
 He raised the rocket and blasted halfway up the elevator shaft.
 
-Josiah sighed and spoke quietly, “Your too smart for your own good girl…”
+Josiah sighed and spoke quietly, “Your too smart for your own good, girl…”
 
 Then he saw her fall out of the hole he’d created, tumbling and leaving a blood streak behind her.
 
@@ -1347,7 +1356,7 @@ But he didn’t want to.
 
 He wanted her to live.
 
-“Damn it!” Josiah roared in anger, and then Suzie tossed the gun aside, “Do it yourself then!”
+“Damn it!” Josiah roared in anger, and then Suzie tossed the gun aside, “Do it yourself, then!”
 
 Josiah winced and clenched his fists for a moment and then activated the rocket on his other arm and aimed it at the ground and went to fire.
 
