@@ -4,9 +4,9 @@ repo_url: https://github.com/shakna-israel/drakes
 site_description: Suzie Drakes has never been a normal kid, but her time with ASIO puts that all in the past.
 site_author: shakna-israel 
 use_directory_urls: true 
-pages:
- - [index.md, Home]
- - [LICENSE.md, License]
- - [CONTRIBUTING.md, Contributing]
- - [Drakes.md, Drakes]
- - [Drakes2.md, Drakes - The Five Eyes]
+nav:
+ - Home: index.md
+ - License: LICENSE.md
+ - Contributing: CONTRIBUTING.md
+ - Drakes: Drakes.md
+ - Drakes - The Five Eyes: Drakes2.md
