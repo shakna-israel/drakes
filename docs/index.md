@@ -13,6 +13,8 @@ Read on [Archive.org](https://archive.org/details/Drakes).
 * [Drakes: The Five Eyes](https://github.com/shakna-israel/drakes-the-five-eyes/)
 * [Drakes: Heroes and Villains](https://github.com/shakna-israel/drakes-heroes-and-villains/)
 
+* [Suzie Drakes](https://git.sr.ht/~shakna/suziedrakes) - A reboot under the same very permissive license, but with far more writing experience.
+
 ## Blurb
 ----
 
